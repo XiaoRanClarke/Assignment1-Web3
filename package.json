@@ -1,0 +1,14 @@
+
+{
+  "name": "frame-focus-11ty",
+  "version": "1.0.0",
+  "description": "Photography Portfolio",
+  "scripts": {
+    "start": "eleventy --input=src --serve",
+    "build": "eleventy --input=src"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.8"
+  }
+}
